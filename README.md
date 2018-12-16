@@ -27,7 +27,7 @@ sample.json contains an example of the JSON response from Google Cloud's Speech-
 3. The Input JSON will require 3 key-value pairs with the following keys:
     1. bucket (name of the S3 bucket)
     2. key (name of the audio file)
-    3. language (language of the audio file)
+    3. language (language of the audio file, valid language codes can be found [here](https://cloud.google.com/speech-to-text/docs/languages))
     ```json
     {
     "bucket": "<S3 BUCKET NAME>",
