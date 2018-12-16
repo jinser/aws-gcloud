@@ -1,0 +1,5 @@
+#ignore everything except files in src
+dist/**
+env/**
+# ignore the extract data file
+src/extract_data.py

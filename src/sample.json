@@ -1,0 +1,11 @@
+{"results": [
+    {"alternatives": [
+        {"confidence": 0.95764107, "transcript": "\u7280\u725b", 
+        "words": [
+            {"endTime": "0.900s", "word": "\u7280", "startTime": "0.300s"},
+            {"endTime": "1.600s", "word": "\u725b", "startTime": "0.900s"}
+        ]}, 
+        {"confidence": 0.89911777, "transcript": "\u897f\u725b"},
+        {"confidence": 0.92166775, "transcript": "\u4e03\u725b"}
+    ]}
+]}
